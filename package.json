@@ -1,0 +1,31 @@
+{
+  "name": "crudnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filzahamjad/CRUDNODE.git"
+  },
+  "keywords": [
+    "node",
+    "CRUD"
+  ],
+  "author": "Filzah Amjad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filzahamjad/CRUDNODE/issues"
+  },
+  "homepage": "https://github.com/filzahamjad/CRUDNODE#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
